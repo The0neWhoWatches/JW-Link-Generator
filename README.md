@@ -3,7 +3,8 @@ A Python software using Guizero that used www.jw.org online Bible to make links 
 
 # Version History
 
-v1.0 - Official release - Released ...
+v1.0 - Official release - Released - 3/25/25
+v1.1 - _(upcoming)_ - Copy Link, Preview Link, Invalid Link Checker, More. - ?/?/?
 
 # How to use
 
